@@ -1,0 +1,12 @@
+# 小型文件归档解决方案 - 依赖
+
+# 华为云 OBS SDK
+esdk-obs-python>=3.25.0
+
+# Python 标准库 (无需安装)
+# - json
+# - hashlib
+# - tarfile
+# - tempfile
+# - threading
+# - concurrent.futures
